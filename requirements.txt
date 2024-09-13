@@ -1,4 +1,0 @@
-pandas
-numpy
-seaborn
--e . #indication that setup.py file is there

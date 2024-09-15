@@ -2,5 +2,8 @@ numpy
 pandas
 scikit-learn
 seaborn
+matplotlib
+catboost
+xgboost
 # -e . should be at the end if you're using editable installs
--e .
+#-e .
